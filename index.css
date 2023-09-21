@@ -175,12 +175,10 @@ border-radius:30%;
   /* top:-75px */
 }
 
-
-
-
-
-
-
+a{
+color:white;
+text-decoration:none;
+}
 
 /* .logo{
   height:99px;
