@@ -37,16 +37,16 @@
   }
 
   h2{
-    color:black;
-    
+    color: burlywood;
+    font-family: fantasy;
+    text-decoration: wavy;
   }
   .head1{
     background-color:white;
     border-radius:0.25rem;
-    padding:5px;
+    padding:3px;
     width:fit-content;
     box-shadow: whitesmoke 0px 5px 5px;
-    border:3px double black;
   }
  
   .box{
