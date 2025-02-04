@@ -3,10 +3,11 @@ body{
 }
 
 #image{
-    height: 70%;
+    height: 100%;
     width:100%;
     margin:1px;
     padding-top: 3px;
+    object-fit:cover;
     pointer-events: none;
   }
 
