@@ -119,6 +119,11 @@ color: #ffffff;
 }
 
 a{
+    height :100%;
   color:white;
   text-decoration: none;
+}
+
+a img{
+    height :100%;
 }
