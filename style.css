@@ -119,9 +119,12 @@ color: #ffffff;
 }
 
 a{
+    display:flex;
+    align-items:center;
+    justify-content:center;
     height :100%;
-  color:white;
-  text-decoration: none;
+    color:white;
+    text-decoration: none;
 }
 
 a img{
