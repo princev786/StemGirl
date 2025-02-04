@@ -22,14 +22,14 @@ body{
     /* box styling section */
 
     .box{
-        height:30vh;
-        width:60vw;
+        height:36vh;
+        width:66vw;
         padding:7px;
         border: 3px solid rgb(13, 147, 214);
         border-radius:9px;
         margin-bottom:2vh;
-        margin-left:15vw;
-        margin-right:15vw;
+        margin-left:17vw;
+        margin-right:17vw;
         box-shadow: 0 10px 10px blue;
     }
 
